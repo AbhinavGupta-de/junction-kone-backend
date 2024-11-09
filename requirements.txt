@@ -1,0 +1,10 @@
+fastapi            # FastAPI framework for building APIs
+uvicorn            # ASGI server for FastAPI
+pydantic           # Data validation and settings management
+motor               # MongoDB async driver for Python
+openai             # OpenAI API for GPT-based LLM processing
+python-dotenv       # Environment variable management
+python-multipart
+
+# Optional for image handling (if needed for AWS integration later)
+# boto3             # AWS SDK for Python (for future AWS S3 integration)
